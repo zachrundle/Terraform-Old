@@ -1,7 +1,10 @@
 # Terraform-Old
-Phase 1 of IAC - contains the initial code of my AWS infrastructure
+### Phase 1 of IAC
+contains the initial code of my AWS infrastructure
     - the Terraform state file is stored locally and not found in this repo for security
-Phase 2 of IAC - will reside in a separate repo with Terraform code that utilizes modules and variables
+
+### Phase 2 of IAC
+will reside in a separate repo with Terraform code that utilizes modules and variables
 
 ## Main commands:
   - **init:**          Prepare your working directory for other commands
